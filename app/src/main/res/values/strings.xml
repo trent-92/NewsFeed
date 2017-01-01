@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">NewsFeed</string>
+    <string name="test_title">Trump Gets an Opening from Russia, but the Path Is Risky </string>
+    <string name="test_summary">WASHINGTON — President-elect Donald J. Trump, who has pledged to reset relations with Russia, may have been tossed a lifeline by President Vladimir V. Putin on Friday. The Russian leader, skilled at keeping several steps ahead of his adversaries, announced that he would not retaliate against the Obama administration for imposing new sanctions and expelling Russian diplomats from the United States. </string>
+    <string name="test_url">http://www.nytimes.com/2016/12/30/us/russia-vladimir-putin-donald-trump.html</string>
 </resources>
